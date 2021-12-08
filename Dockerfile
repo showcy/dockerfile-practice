@@ -1,4 +1,4 @@
-# Author: Chaoran Wang
+# Author: Chaoran Wang @ MDS of UBC
 
 FROM jupyter/minimal-notebook:latest
 
